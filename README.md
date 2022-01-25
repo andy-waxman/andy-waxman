@@ -1,4 +1,6 @@
-### Hi there 👋
+### Currently Reading: <span style="text-decoration: underline;">Ministry For The Future</span>, by Kim Stanley Robinson ###
+#### Last Non-Fiction: <span style="text-decoration: underline;">Antifragile: Things That Gain from Disorder</span>, by Nassim Nicholas Taleb ####
+#### Last Fiction: <span style="text-decoration: underline;">Squeeze Me</span>, by Carl Hiassen ####
 
 <!--
 **andy-waxman/andy-waxman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
