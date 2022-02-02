@@ -1,6 +1,6 @@
-### Currently Reading: <span style="text-decoration: underline;">Ministry For The Future</span>, by Kim Stanley Robinson ###
+### Currently Reading: <span style="text-decoration: underline;">The Color of Law: A Forgotten History of How Our Government Segregated America</span>, by Richard Rothstein ###
 #### Last Non-Fiction: <span style="text-decoration: underline;">Antifragile: Things That Gain from Disorder</span>, by Nassim Nicholas Taleb ####
-#### Last Fiction: <span style="text-decoration: underline;">Squeeze Me</span>, by Carl Hiassen ####
+#### Last Fiction: <span style="text-decoration: underline;">Ministry For The Future</span>, by Kim Stanley Robinson ####
 
 <!--
 **andy-waxman/andy-waxman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
