@@ -1,5 +1,5 @@
-### Currently Reading: <span style="text-decoration: underline;">The Color of Law: A Forgotten History of How Our Government Segregated America</span>, by Richard Rothstein ###
-#### Last Non-Fiction: <span style="text-decoration: underline;">Antifragile: Things That Gain from Disorder</span>, by Nassim Nicholas Taleb ####
+### Currently Reading: <span style="text-decoration: underline;">Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong</span>, by Jame W. Loewen ###
+#### Last Non-Fiction: <span style="text-decoration: underline;">The Color of Law: A Forgotten History of How Our Government Segregated America</span>, by Richard Rothstein  ####
 #### Last Fiction: <span style="text-decoration: underline;">Ministry For The Future</span>, by Kim Stanley Robinson ####
 
 <!--
