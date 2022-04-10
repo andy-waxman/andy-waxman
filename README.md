@@ -1,7 +1,7 @@
 ### Currently Reading: ###
-###<span style="text-decoration: underline;">Pragmatic Thinking & Learning</span>, by Andy Hunt ###
+### <span style="text-decoration: underline;">Pragmatic Thinking & Learning</span>, by Andy Hunt ###
 ### and ###
-###<span style="text-decoration: underline;">The Book Thief</span>, by Markus Zusak ###
+### <span style="text-decoration: underline;">The Book Thief</span>, by Markus Zusak ###
 #### Last Non-Fiction: <span style="text-decoration: underline;">Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong</span>, by Jame W. Loewen  ####
 #### Last Fiction: <span style="text-decoration: underline;">Holes</span>, by Louis Sachar ####
 
