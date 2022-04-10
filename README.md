@@ -1,6 +1,9 @@
-### Currently Reading: <span style="text-decoration: underline;">Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong</span>, by Jame W. Loewen ###
-#### Last Non-Fiction: <span style="text-decoration: underline;">The Color of Law: A Forgotten History of How Our Government Segregated America</span>, by Richard Rothstein  ####
-#### Last Fiction: <span style="text-decoration: underline;">Ministry For The Future</span>, by Kim Stanley Robinson ####
+### Currently Reading: ###
+###<span style="text-decoration: underline;">Pragmatic Thinking & Learning</span>, by Andy Hunt ###
+### and ###
+###<span style="text-decoration: underline;">The Book Thief</span>, by Markus Zusak ###
+#### Last Non-Fiction: <span style="text-decoration: underline;">Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong</span>, by Jame W. Loewen  ####
+#### Last Fiction: <span style="text-decoration: underline;">Holes</span>, by Louis Sachar ####
 
 <!--
 **andy-waxman/andy-waxman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
